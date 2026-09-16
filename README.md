@@ -51,5 +51,54 @@ Analytics & Insights
 
 [➡️ View full project 1 deails (README)**](/data_jobs_V1/README.md)
 
+# Data Jobs Dashboard — Project 2 (comprehensive exploration)
+![Project 2 Dashboard](/images/project2_image1.png)
 
+A full end-to-end Power BI solution analyzing global job market trends across data-focused roles — covering role demand, salary benchmarks by title, skill popularity, global hiring distribution, benefits and remote-work availability, and top recruiting platforms, all built on a star schema data model with drill-through navigation
+
+[➡️ View full project 1 deails (README)**](/data_jobs_V2/README.md)
+
+## 🧠 Power BI Skills Utilized
+
+Data Modeling
+- Building star schema models (fact + dimension tables)
+- Creating and managing table relationships
+- Designing clean, scalable data structures
+
+Power Query (Data Preparation)
+- Cleaning and transforming raw job market datasets
+- Merging, appending, and shaping multiple data sources
+- Creating custom columns and applying data type conversions
+
+DAX (Data Analysis Expressions)
+- Creating calculated measures (Median Salary, Job Count, Hourly Salary)
+- Time intelligence calculations for trend analysis
+- Conditional logic for drill-through metrics
+- Aggregations for role-based salary comparisons
+
+Visualization & Report Design
+- Designing professional, consistent dashboard layouts
+- Applying custom color palettes (Coolors)
+Using KPI cards, bar charts, line charts, pie charts, and map visuals
+- Implementing visual hierarchy and clean spacing
+- Adding icons and rating visuals for storytelling
+
+Interactivity & UX
+- Creating drill-through pages for role-specific insights
+- Using slicers and filters for user exploration
+- Designing responsive layouts
+- Enhancing navigation with buttons or bookmarks (if used)
+
+Advanced Visual Techniques
+
+- Top N charts (Top 5 job platforms)
+Global job distribution using map visuals
+- Role comparison visuals (Median Salary by Role)
+- Job schedule and job type breakdowns
+
+Analytics & Insights
+
+- Trend analysis of job postings over multiple years
+- Salary benchmarking across job roles
+- Workforce insights (degree requirements, remote jobs, insurance availability)
 
